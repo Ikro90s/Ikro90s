@@ -1,13 +1,68 @@
-# Welcome to my GitHub 👋👋
->I'm icaro, constantly learning, results-oriented, let's work together?
-### 1. *Social Media*
-|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikrodev/)|[![icaropereiradepaula@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icaropereiradepaula@gmail.com)|[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ikro.dev/)|
+# 👋 Welcome to My GitHub
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Icaro;Front-End+Developer;Computer+Technician;Always+Learning+%26+Results-Oriented" />
+</p>
 
-> * Computer Technician | Front End Developer 
-### 2. *Technologies for Work*
-|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)|![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)|![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)|![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|![gnu-bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)|
+<p align="center">
+  <strong>Building clean interfaces, scalable solutions and solid foundations.</strong><br/>
+  Let’s create something impactful together.
+</p>
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKRO277&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+## 🌐 Social Media & Contact
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ikrodev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:icaropereiradepaula@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ikro.dev/">
+    <img src="https://img.shields.io/badge/Instagram-Creative-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **Computer Technician**
+- 💻 **Front-End Developer**
+- 🎯 Results-oriented and focused on clean, maintainable code
+- 📚 Constantly learning new technologies and best practices
+
+---
+
+## ⚙️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,tailwind,nodejs,mysql,postgres,git,bash" />
+</p>
+
+> **Stack focus:** Modern front-end, strong fundamentals, and scalable architectures.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKRO277&layout=donut&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 What You’ll Find Here
+
+- 📌 Academic and personal projects  
+- 🧩 Clean code and structured repositories  
+- 🛠 Experiments with modern frameworks and tools  
+- 📖 Continuous evolution documented in commits  
+
+---
+
+<p align="center">
+  <strong>⭐ If you like what you see, feel free to explore, fork or connect!</strong>
+</p>
