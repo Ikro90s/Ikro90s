@@ -54,15 +54,15 @@
 
 ---
 
-## 🚀 What You’ll Find Here
+## What You’ll Find Here
 
-- 📌 Academic and personal projects  
-- 🧩 Clean code and structured repositories  
-- 🛠 Experiments with modern frameworks and tools  
-- 📖 Continuous evolution documented in commits  
+-  Academic and personal projects  
+-  Clean code and structured repositories  
+-  Experiments with modern frameworks and tools  
+-  Continuous evolution documented in commits  
 
 ---
 
 <p align="center">
-  <strong>⭐ If you like what you see, feel free to explore, fork or connect!</strong>
+  <strong> If you like what you see, feel free to explore, fork or connect!</strong>
 </p>
