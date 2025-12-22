@@ -39,7 +39,7 @@
 ## ⚙️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,tailwind,nodejs,mysql,postgres,git,java" />
+  <img src="https://skillicons.dev/icons?i=ts,python,react,tailwind,nodejs,mysql,postgres,git,java" />
 </p>
 
 > **Stack focus:** Modern front-end, strong fundamentals, and scalable architectures.
