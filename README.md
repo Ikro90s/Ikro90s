@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikro90s7&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikro90s&layout=donut&theme=tokyonight" />
 </p>
 
 ---
