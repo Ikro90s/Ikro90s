@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Icaro;Software+Engineering+Student;Full-Stack+Developer;Building+clean+%26+scalable+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Icaro+(Ikro)+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+Developer;Building+clean+%26+scalable+solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Building scalable architectures, clean interfaces, and solid foundations.
+  Building clean interfaces, scalable architectures, and solid foundations.<br/>
+  Let’s create something impactful together.
 </p>
 
 <div align="center">
@@ -22,14 +23,10 @@
 
 ### About Me
 
-I am a Full-Stack Developer and Software Engineering student (UFR & Jala University) with a technical background in IT (IFRR). My work is focused on writing maintainable code and designing scalable systems.
+I'm a **Full-Stack Developer** and Software Engineering student at **UFR** and **Jala University**, holding a technical degree in IT from **IFRR**. I am deeply focused on creating clean, maintainable code and scalable architectures.
 
-**Current Focus & Experience:**
-- Building a modern full-stack portfolio using Node.js, Nuxt 3, PostgreSQL, and Docker.
-- Deepening expertise in Java, C#, and TypeScript.
-- Contributing to community projects (CodePink) and local Ideathons.
-- Mentoring freshmen as a student monitor.
-- Previous work includes developing WatchFit, a prototype application for smartwatches.
+- building a modern full-stack portfolio and engaging in community projects.
+- Enhancing my expertise in **Java**, **C#**, **TypeScript**, and the **Node.js/Nuxt 3**.
 
 ---
 
@@ -62,15 +59,15 @@ I am a Full-Stack Developer and Software Engineering student (UFR & Jala Univers
 
 ---
 
-### Repository Overview
+### 📂 What You’ll Find Here
 
-- **Academic & Personal Projects:** Ranging from conceptual prototypes to full-stack applications.
-- **Clean Code:** Structured repositories demonstrating solid engineering fundamentals.
-- **Modern Stacks:** Implementations integrating contemporary frameworks and cloud-native tools.
-- **Continuous Evolution:** A consistent record of technical learning and commits.
+- **Academic & Personal Projects:** From conceptual prototypes to robust applications.
+- **Clean Code:** Structured repositories with a focus on solid fundamentals.
+- **Modern Stacks:** Experiments integrating frameworks and tools like Nuxt 3, PostgreSQL, and Docker.
+- **Continuous Evolution:** Documented learning and consistent commits.
 
 <br/>
 
 <p align="center">
-  <strong>Feel free to explore, fork, or connect.</strong>
+  <strong>If you like what you see, feel free to explore, fork, or connect!</strong>
 </p>
