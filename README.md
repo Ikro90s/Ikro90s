@@ -25,9 +25,6 @@
 
 I'm a **Full-Stack Developer** and Software Engineering student at **UFR** and **Jala University**, holding a technical degree in IT from **IFRR**. I am deeply focused on creating clean, maintainable code and scalable architectures.
 
-- building a modern full-stack portfolio and engaging in community projects.
-- Enhancing my expertise in **Java**, **C#**, **TypeScript**, and the **Node.js/Nuxt 3**.
-
 ---
 
 ### Technologies & Tools
@@ -59,7 +56,7 @@ I'm a **Full-Stack Developer** and Software Engineering student at **UFR** and *
 
 ---
 
-### 📂 What You’ll Find Here
+### What You’ll Find Here
 
 - **Academic & Personal Projects:** From conceptual prototypes to robust applications.
 - **Clean Code:** Structured repositories with a focus on solid fundamentals.
