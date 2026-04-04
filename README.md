@@ -48,14 +48,6 @@ I'm a **Full-Stack Developer** and Software Engineering student at **UFR** and *
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikro90s&layout=donut&theme=transparent&hide_border=true&title_color=38B2AC&text_color=a6a6a6&icon_color=38B2AC" alt="Top Languages" />
-</div>
-
----
-
 ### What You’ll Find Here
 
 - **Academic & Personal Projects:** From conceptual prototypes to robust applications.
